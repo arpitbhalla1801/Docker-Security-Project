@@ -62,7 +62,7 @@ Docker provides enhanced security and resource management for web applications, 
 
 # Usage
 Clone the repository:
-`git clone https://github.com/yourusername/my-docker-project.git`
+`git clone https://github.com/arpitbhalla1801/Docker-Security-Project.git`
 Navigate to the project directory:
 `cd my-docker-project`
 Build and run the Docker container:
